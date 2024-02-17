@@ -215,7 +215,7 @@ h6{
 /************ ACERCA ***************/
 .acerca__container{
     display: grid;
-    grid-template-columns: repeat(2,35%);
+    grid-template-columns: repeat(2,50%);
     column-gap: 3.125rem;
     
     width: 100%;
