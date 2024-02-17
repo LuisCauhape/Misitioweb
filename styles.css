@@ -323,11 +323,7 @@ object-fit: cover;
 
 
 /******************************************TERCERA COLUMNA COLUMNA************/
-.acerca__tercera-columna{
-    grid-column-start: 3;
-    grid-column-end: 4;
-    
-}
+
 
 
 .acerca__titulo{
